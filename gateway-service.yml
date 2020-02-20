@@ -13,4 +13,4 @@ zuul:
     FlashcardService:
       path: /flashcards/*
       strip-prefix: true
-      serviceId: FlashcardService
+      serviceId: flashcard-service
